@@ -19,15 +19,49 @@
         * [Iterator循环删除list中元素](/article/java/其他/Iterator循环删除list中元素.md)
         * [运用策略模式替换switchCase](/article/java/其他/运用策略模式替换switchCase.md)
     
-* [框架](/article/框架/home.md)
+* 框架
 
-* [中间件](/article/中间件/home.md)
+    * [spring](框架)
 
-* [数据库](/article/数据库/home.md)
+* 中间件
 
-* [分布式系统设计](/article/分布式系统设计/home.md)
+    * [redis](中间件)
+    * [rabbitmq](中间件)
+    * [elasticjob](中间件)
+    * [elasticSearch](中间件)
 
-* [数据结构与算法](/article/数据结构与算法/home.md)
+* 数据库
+
+* 分布式系统设计
+
+    * [分布式锁](/article/分布式系统设计/分布式锁.md)
+    * [分布式事务](/article/分布式系统设计/分布式事务.md)
+    * [幂等性](/article/分布式系统设计/幂等性.md)
+    * [分布式会话](/article/分布式系统设计/分布式会话.md)
+
+* 数据结构与算法
+
+    - [数据结构](数据结构与算法)
+
+      * [数组](/article/数据结构与算法/数据结构/数组.md)
+
+      * [队列](/article/数据结构与算法/数据结构/队列.md)
+
+      * [链表](/article/数据结构与算法/数据结构/链表.md)
+
+      * [栈](/article/数据结构与算法/数据结构/栈.md)
+
+      * [堆](/article/数据结构与算法/数据结构/堆.md)
+
+      * [树](/article/数据结构与算法/数据结构/树.md)
+
+      * [哈希表](/article/数据结构与算法/数据结构/哈希表.md)
+
+      * [图](/article/数据结构与算法/数据结构/图.md)
+
+    - [算法](数据结构与算法)
+
+      * [排序算法](/article/数据结构与算法/算法/排序算法.md)
 
 * 设计模式
 
@@ -68,7 +102,7 @@
 
       * [代理模式（Proxy Pattern)](/article/设计模式/结构类/代理模式.md)
 
-    - [行为类]
+    - [行为类](设计模式)
 
       * [责任链模式（Chain of Responsibility Pattern)](/article/设计模式/行为类/责任链模式.md)
 
