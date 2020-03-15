@@ -26,6 +26,9 @@
 * 中间件
 
     * [redis](中间件)
+      * [如何保证高性能](/article/中间件/redis如何保证高性能.md)
+      * [缓存穿透，击穿和雪崩](/article/中间件/redis/redis专题之缓存穿透，缓存击穿，缓存雪崩.md)
+      * [集群高可用部署方案TODO](//article/中间件/redis集群高可用部署解决方案.md)
     * [rabbitmq](中间件)
     * [elasticjob](中间件)
     * [elasticSearch](中间件)
@@ -130,17 +133,27 @@
 
       * [访问者模式（Visitor Pattern)](/article/设计模式/行为类/备忘录模式.md)
 
-* [网络与操作系统](/article/网络与操作系统/home.md)
+* 网络与操作系统
 
-* [devops](/article/devops/home.md)
+    * [http](网络与操作系统)
+    * [linux](网络与操作系统)
+    * [nginx](网络与操作系统)
 
-* [工具](/article/工具/home.md)
+* devops
+
+    * [K8s](devops)
+    * [docker](devops)
+
+* 工具
+
+    * [git](工具)
+    * [maven](工具)
 
 * [随笔](/article/随笔/home.md)
 
 * [读书笔记](/article/读书笔记/home.md)
 
-* 常用链接
+* [常用链接]()
 
 * 收藏博客
 
