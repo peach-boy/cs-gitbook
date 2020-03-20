@@ -4,8 +4,8 @@
 
 * java
     * [基础](java)
-        * [int和Integer区别及==与equal区别](/article/java/基础/int和Integer区别及==与equal区别.md)
-        * [final,static,this,super关键字](/article/java/基础/final,static,this,super关键字.md)
+        * [基本类型与包装类型](/article/java/基础/基本类型与包装类型.md)
+        * [关键字](/article/java/基础/关键字.md)
         * [异常处理](/article/java/基础/异常处理.md)
     * [并发](java)
         * [多线程常见问题](/article/java/并发/多线程常见问题.md)
