@@ -18,7 +18,8 @@
         * [intercepter配合threadlocal实现线程内数据扩展](/article/java/其他/intercepter-and-threadlocal.md)
         * [Iterator循环删除list中元素](/article/java/其他/Iterator循环删除list中元素.md)
         * [运用策略模式替换switchCase](/article/java/其他/运用策略模式替换switchCase.md)
-    
+        * [拦截器与过滤器](/article/java/其他/拦截器与过滤器.md)
+
 * 框架
 
     * [spring](框架)
