@@ -7,6 +7,13 @@
         * [基本类型与包装类型](/article/java/基础/基本类型与包装类型.md)
         * [关键字](/article/java/基础/关键字.md)
         * [异常处理](/article/java/基础/异常处理.md)
+        * [java四种应用的区别] todo
+        * [反射] todo
+        * [动态代理] todo
+        * [泛型] todo
+        * [内部类] todo 
+        * [浅拷贝与深拷贝] todo
+        * [字符串] todo
     * [并发](java)
         * [多线程常见问题](/article/java/并发/多线程常见问题.md)
         * [ThreadPoolExecutor原理简析](/article/java/并发/线程池原理.md)
