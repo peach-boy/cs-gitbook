@@ -14,11 +14,12 @@
     * [I/O](java)
     * [JVM](java)
     * [java8](java)
+    * [J2EE](java)
+        * [拦截器与过滤器](/article/java/J2EE/拦截器.md)
     * [其他](java)
         * [intercepter配合threadlocal实现线程内数据扩展](/article/java/其他/intercepter-and-threadlocal.md)
         * [Iterator循环删除list中元素](/article/java/其他/Iterator循环删除list中元素.md)
         * [运用策略模式替换switchCase](/article/java/其他/运用策略模式替换switchCase.md)
-        * [拦截器与过滤器](/article/java/其他/拦截器与过滤器.md)
 
 * 框架
 
