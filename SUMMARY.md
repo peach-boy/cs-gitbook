@@ -4,6 +4,7 @@
 
 * java
     * [基础](java)
+        * [基础语法](/article/java/基础/基础语法.md)
         * [基本类型与包装类型](/article/java/基础/基本类型与包装类型.md)
         * [关键字](/article/java/基础/关键字.md)
         * [异常处理](/article/java/基础/异常处理.md)
