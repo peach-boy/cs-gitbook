@@ -19,6 +19,7 @@
         * [多线程常见问题](/article/java/并发/多线程常见问题.md)
         * [ThreadPoolExecutor原理简析](/article/java/并发/线程池原理.md)
     * [容器](java)
+        * [HashMap原理](/article/java/容器/HashMap原理.md)
     * [I/O](java)
     * [JVM](java)
     * [java8](java)
