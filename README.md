@@ -16,8 +16,15 @@
         * [浅拷贝与深拷贝] todo
         * [字符串] todo
     * [并发](java)
-        * [多线程常见问题](/article/java/并发/多线程常见问题.md)
-        * [ThreadPoolExecutor原理简析](/article/java/并发/线程池原理.md)
+        * [java线程的生命周期](/article/java/并发/java线程的生命周期.md)
+        * [synchronized详解](/article/java/并发/synchronized详解.md)
+        * [volatile的原理](/article/java/并发/volatile的原理.md)
+        * [锁的升级](/article/java/并发/锁的升级.md)
+        * [cas操作,unsafe类和原子类](/article/java/并发/cas操作,unsafe类和原子类.md)
+        * [ThreadPoolExecutor原理简析](/article/java/并发/ThreadPoolExecutor原理简析.md)
+        * [FutureTask,Future和Callable](/article/java/并发/FutureTask,Future和Callable.md)
+        * [并发工具类](/article/java/并发/并发工具类.md)
+
     * [容器](java)
         * [HashMap原理](/article/java/容器/HashMap原理.md)
     * [I/O](java)
