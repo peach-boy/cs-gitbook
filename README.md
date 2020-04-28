@@ -5,8 +5,8 @@
         * [基本类型与包装类型](/article/java/基础/基本类型与包装类型.md)
         * [关键字](/article/java/基础/关键字.md)
         * [异常处理](/article/java/基础/异常处理.md)
-        * [java四种应用的区别] todo
-        * [反射] todo
+        * [java四种引用的区别](/article/java/基础/反射.md)
+        * [反射](/article/java/基础/反射.md)
         * [动态代理] todo
         * [泛型] todo
         * [内部类] todo 
@@ -45,8 +45,9 @@
     * [redis](中间件)
         * [如何保证高性能](/article/中间件/redis如何保证高性能.md)
         * [缓存穿透，击穿和雪崩](/article/中间件/redis/redis专题之缓存穿透，缓存击穿，缓存雪崩.md)
-        * [集群高可用部署方案TODO](//article/中间件/redis集群高可用部署解决方案.md)
+        * [集群高可用部署方案TODO](/article/中间件/redis集群高可用部署解决方案.md)
     * [rabbitmq](中间件)
+        * [rabbitmq](/article/中间件/rabbitmq/rabbitmq.md)
     * [elasticjob](中间件)
     * [elasticSearch](中间件)
 

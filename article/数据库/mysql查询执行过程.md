@@ -2,9 +2,9 @@
 
 ### 一、流程图 
 1. 高性能mysql中的执行示意图
-![](..//../pic/mysql/mysql查询执行过程.png)
+![](/pic/mysql/mysql查询执行过程.png)
 2. 极客时间专栏mysql查询执行示意图
-![](../../pic/mysql/mysql执行示意图(极客时间版).png)
+![](/pic/mysql/mysql执行示意图(极客时间版).png)
 
 
 ### 二、执行过程
