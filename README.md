@@ -1,17 +1,16 @@
 
+
+### 目录
 * java
     * [基础](java)
         * [基础语法](/article/java/基础/基础语法.md)
         * [基本类型与包装类型](/article/java/基础/基本类型与包装类型.md)
         * [关键字](/article/java/基础/关键字.md)
         * [异常处理](/article/java/基础/异常处理.md)
-        * [java四种引用的区别](/article/java/基础/反射.md)
+        * [四种引用的区别](/article/java/基础/强引用、软引用、弱引用、幻象引用有什么区别.md)
         * [反射](/article/java/基础/反射.md)
         * [动态代理] todo
         * [泛型] todo
-        * [内部类] todo 
-        * [浅拷贝与深拷贝] todo
-        * [字符串] todo
     * [并发](java)
         * [java线程的生命周期](/article/java/并发/java线程的生命周期.md)
         * [synchronized详解](/article/java/并发/synchronized详解.md)
@@ -26,6 +25,9 @@
         * [HashMap原理](/article/java/容器/HashMap原理.md)
     * [I/O](java)
     * [JVM](java)
+        * [类加载机制]TODO
+        * [内存模型]TODO
+        * [垃圾回收机制]TODO
     * [java8](java)
         * [java8-lambda表达式](/article/java/java8/java8-lambda表达式.md)
         * [java8-streamApi](/article/java/java8/java8-streamApi.md)
@@ -38,8 +40,11 @@
 
 * 框架
     * [spring](框架)
+        * [springAop]TODO
+        * [springIoc]TODO
         * [springbean的生命周期](/article/框架/spring/springbean的生命周期.md)
         * [spring常用接口](/article/框架/spring/spring常用接口.md)
+        * [spring事务]TODO
 
 * 中间件
     * [redis](中间件)
