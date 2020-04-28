@@ -1,6 +1,3 @@
-# cs-gitbook
-
-# Table of contents
 
 * java
     * [基础](java)
@@ -23,6 +20,8 @@
     * [I/O](java)
     * [JVM](java)
     * [java8](java)
+        * [java8-lambda表达式](/article/java/java8/java8-lambda表达式.md)
+        * [java8-streamApi](/article/java/java8/java8-streamApi.md)
     * [J2EE](java)
         * [拦截器与过滤器](/article/java/J2EE/拦截器.md)
     * [其他](java)
@@ -31,24 +30,27 @@
         * [运用策略模式替换switchCase](/article/java/其他/运用策略模式替换switchCase.md)
 
 * 框架
-
     * [spring](框架)
+        * [springbean的生命周期](/article/框架/spring/springbean的生命周期.md)
+        * [spring常用接口](/article/框架/spring/spring常用接口.md)
 
 * 中间件
-
     * [redis](中间件)
-      * [如何保证高性能](/article/中间件/redis如何保证高性能.md)
-      * [缓存穿透，击穿和雪崩](/article/中间件/redis/redis专题之缓存穿透，缓存击穿，缓存雪崩.md)
-      * [集群高可用部署方案TODO](//article/中间件/redis集群高可用部署解决方案.md)
+        * [如何保证高性能](/article/中间件/redis如何保证高性能.md)
+        * [缓存穿透，击穿和雪崩](/article/中间件/redis/redis专题之缓存穿透，缓存击穿，缓存雪崩.md)
+        * [集群高可用部署方案TODO](//article/中间件/redis集群高可用部署解决方案.md)
     * [rabbitmq](中间件)
     * [elasticjob](中间件)
     * [elasticSearch](中间件)
 
 * 数据库
-
+    * [mysql常用语句](/article/数据库/mysql常用语句.md)
+    * [mysql查询执行过程](/article/数据库/mysql查询执行过程.md)
+    * [mysql更新语句执行过程](/article/数据库/mysql更新语句执行过程.md)
+    * [mysql中的锁](/article/数据库/mysql中的锁.md)
+    * [mysql中的索引](/article/数据库/mysql中的索引.md)
 
 * 分布式系统设计
-
     * [分布式锁](/article/分布式系统设计/分布式锁.md)
     * [分布式事务](/article/分布式系统设计/分布式事务.md)
     * [幂等性](/article/分布式系统设计/幂等性.md)

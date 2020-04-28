@@ -1,4 +1,4 @@
-## java8-stream
+## java8-streamApi
 
 ### 流操作之中间操作简介
 中间操作主要是用来对Stream做出相应转换及限制流，实际上是将源Stream转换为一个新的Stream，以达到需求效果。
