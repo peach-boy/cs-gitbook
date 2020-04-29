@@ -50,9 +50,9 @@
 
 * 中间件
     * [redis](中间件)
-        * [如何保证高性能](/article/中间件/redis如何保证高性能.md)
-        * [缓存穿透，击穿和雪崩](/article/中间件/redis/redis专题之缓存穿透，缓存击穿，缓存雪崩.md)
-        * [集群高可用部署方案TODO](/article/中间件/redis集群高可用部署解决方案.md)
+        * [redis专题之如何保证高性能](/article/中间件/redis/redis专题之如何保证高性能.md)
+        * [redis专题之缓存穿透，缓存击穿，缓存雪崩](/article/中间件/redis/redis专题之缓存穿透，缓存击穿，缓存雪崩.md)
+        * [redis专题之集群高可用部署方案](/article/中间件/redis/redis专题之集群高可用部署方案.md)
     * [rabbitmq](中间件)
         * [rabbitmq](/article/中间件/rabbitmq/rabbitmq.md)
     * [elasticjob](中间件)
@@ -73,6 +73,25 @@
     
 * devops
     * [devops](/article/devops/devops.md)
+
+* 设计模式
+    * [创建类](创建类)
+        * [单例模式](/article/设计模式/结构类/单例模式.md)
+    * [结构类](结构类)
+        * [策略模式](/article/设计模式/结构类/策略模式.md)
+    * [行为类](行为类)
+
+* 数据结构与算法
+    * [数据结构](数据结构)
+        * [树](/article/数据结构与算法/数据结构/树.md)
+    * [算法](算法)
+    
+* 工具
+    * [git](git)
+        * [git命令小记](/article/工具/git/git命令小记.md)
+
+* 其他
+    * [github markdown guide](https://guides.github.com/features/mastering-markdown/) 
 
 
 
