@@ -35,18 +35,24 @@
         * [如何解决跨域问题](https://juejin.im/post/5c23993de51d457b8c1f4ee1)
         * [tomcat,servlet和spring之间的关系](https://www.cnblogs.com/shawshawwan/p/9002126.html)
         * [拦截器，过滤器和切面](https://blog.csdn.net/fly910905/article/details/86537648)
+    
     * [其他](java)
         * [intercepter配合threadlocal实现线程内数据扩展](/article/java/其他/intercepter-and-threadlocal.md)
         * [Iterator循环删除list中元素](/article/java/其他/Iterator循环删除list中元素.md)
-        * [运用策略模式替换switchCase](/article/java/其他/运用策略模式替换switchCase.md)
 
 * 框架
-    * [spring](框架)
+    * [springFramework](框架)
         * [springAop]TODO
         * [springIoc]TODO
         * [springbean的生命周期](/article/框架/spring/springbean的生命周期.md)
         * [spring常用接口](/article/框架/spring/spring常用接口.md)
-        * [spring事务]TODO
+        * [spring事务](/article/框架/spring/spring事务.md)
+    * [springBoot](springBoot)
+        * [springboot之自动配置]TODO
+    * [单元测试](单元测试)
+        * [junit]TODO
+        * [Mockito]TODO
+    * [日志](日志)
 
 * 中间件
     * [redis](中间件)
@@ -70,13 +76,19 @@
     * [分布式事务](/article/分布式系统设计/分布式事务.md)
     * [幂等性](/article/分布式系统设计/幂等性.md)
     * [分布式会话](/article/分布式系统设计/分布式会话.md)
-    
+
+* 网络与操作系统    
+    * [网络协议基础]TODO
+    * [https原理]TODO
+    * [linux常用命令](/article/网络与操作系统/linux常用命令.md)
+    * [nginx]TODO
+
 * devops
     * [devops](/article/devops/devops.md)
 
 * 设计模式
     * [创建类](创建类)
-        * [单例模式](/article/设计模式/结构类/单例模式.md)
+        * [单例模式](/article/设计模式/创建类/单例模式.md)
     * [结构类](结构类)
         * [策略模式](/article/设计模式/结构类/策略模式.md)
     * [行为类](行为类)
