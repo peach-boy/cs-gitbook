@@ -32,7 +32,9 @@
         * [java8-lambda表达式](/article/java/java8/java8-lambda表达式.md)
         * [java8-streamApi](/article/java/java8/java8-streamApi.md)
     * [J2EE](java)
-        * [拦截器与过滤器](/article/java/J2EE/拦截器.md)
+        * [如何解决跨域问题](https://juejin.im/post/5c23993de51d457b8c1f4ee1)
+        * [tomcat,servlet和spring之间的关系](https://www.cnblogs.com/shawshawwan/p/9002126.html)
+        * [拦截器，过滤器和切面](https://blog.csdn.net/fly910905/article/details/86537648)
     * [其他](java)
         * [intercepter配合threadlocal实现线程内数据扩展](/article/java/其他/intercepter-and-threadlocal.md)
         * [Iterator循环删除list中元素](/article/java/其他/Iterator循环删除list中元素.md)
@@ -68,7 +70,9 @@
     * [分布式事务](/article/分布式系统设计/分布式事务.md)
     * [幂等性](/article/分布式系统设计/幂等性.md)
     * [分布式会话](/article/分布式系统设计/分布式会话.md)
-
+    
+* devops
+    * [devops](/article/devops/devops.md)
 
 
 
