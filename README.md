@@ -104,6 +104,8 @@
 
 * 其他
     * [github markdown guide](https://guides.github.com/features/mastering-markdown/) 
+    * [设计模式在线学习网站](https://refactoringguru.cn/)
+    * [git在线演示学习网站](https://oschina.gitee.io/learn-git-branching/)
 
 
 
