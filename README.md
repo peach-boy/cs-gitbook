@@ -42,12 +42,14 @@
 
 * 框架
     * [springFramework](框架)
+        * [springMvc常用注解](/article/框架/springFramework/springMvc常用注解.md)
         * [springAop]TODO
         * [springIoc]TODO
-        * [springbean的生命周期](/article/框架/spring/springbean的生命周期.md)
-        * [spring常用接口](/article/框架/spring/spring常用接口.md)
-        * [spring事务](/article/框架/spring/spring事务.md)
-    * [springBoot](springBoot)
+        * [springbean的生命周期](/article/框架/springFramework/springbean的生命周期.md)
+        * [spring常用接口](/article/框架/springFramework/spring常用接口.md)
+        * [spring事务](/article/框架/springFramework/spring事务.md)
+    * [springboot](springboot)
+        * [springboot常用注解](/article/框架/springboot/springboot常用注解.md)
         * [springboot之自动配置]TODO
     * [单元测试](单元测试)
         * [junit]TODO
