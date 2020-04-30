@@ -95,8 +95,11 @@
 
 * 数据结构与算法
     * [数据结构](数据结构)
-        * [树](/article/数据结构与算法/数据结构/树.md)
+        * [树](https://www.cnblogs.com/maybe2030/p/4732377.html)
+        * [哈希表](https://www.cnblogs.com/maybe2030/p/4719267.html)
     * [算法](算法)
+* 思想和规范
+    * [领域驱动设计（DDD）在美团点评业务系统的实践](https://yq.aliyun.com/articles/319159?utm_content=m_38302)
     
 * 工具
     * [git](git)
