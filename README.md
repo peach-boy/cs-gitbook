@@ -65,11 +65,11 @@
     * [elasticSearch](中间件)
 
 * 数据库
-    * [mysql常用语句](/article/数据库/mysql常用语句.md)
-    * [mysql查询执行过程](/article/数据库/mysql查询执行过程.md)
-    * [mysql更新语句执行过程](/article/数据库/mysql更新语句执行过程.md)
-    * [mysql中的锁](/article/数据库/mysql中的锁.md)
-    * [mysql中的索引](/article/数据库/mysql中的索引.md)
+    * [mysql之常用语句](/article/数据库/mysql之常用语句.md)
+    * [mysql之查询执行过程](/article/数据库/mysql之查询执行过程.md)
+    * [mysql之更新语句执行过程](/article/数据库/mysql之更新语句执行过程.md)
+    * [mysql之锁](/article/数据库/mysql之锁.md)
+    * [mysql之索引](/article/数据库/mysql之索引.md)
 
 * 分布式系统设计
     * [分布式锁](/article/分布式系统设计/分布式锁.md)
