@@ -68,10 +68,13 @@
 
 * 数据库
     * [mysql之常用语句](/article/数据库/mysql之常用语句.md)
-    * [mysql之查询执行过程](/article/数据库/mysql之查询执行过程.md)
-    * [mysql之更新语句执行过程](/article/数据库/mysql之更新语句执行过程.md)
+    * [mysql之查询](/article/数据库/mysql之查询.md)
+    * [mysql之DML语句](/article/数据库/mysql之DML语句.md)
     * [mysql之锁](/article/数据库/mysql之锁.md)
     * [mysql之索引](/article/数据库/mysql之索引.md)
+    * [mysql之事务](/article/数据库/mysql之事务.md)
+    * [mysql之事务](/article/数据库/mysql之事务.md)
+
 
 * 分布式系统设计
     * [分布式锁](/article/分布式系统设计/分布式锁.md)

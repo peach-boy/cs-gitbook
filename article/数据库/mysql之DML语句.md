@@ -1,4 +1,4 @@
-## mysql更新语句执行过程
+## mysql之DML语句
 
 ### 一、redo log(重做日志)
 
