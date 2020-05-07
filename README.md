@@ -73,7 +73,7 @@
     * [mysql之锁](/article/数据库/mysql之锁.md)
     * [mysql之索引](/article/数据库/mysql之索引.md)
     * [mysql之事务](/article/数据库/mysql之事务.md)
-    * [mysql之事务](/article/数据库/mysql之事务.md)
+
 
 
 * 分布式系统设计
