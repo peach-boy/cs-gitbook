@@ -67,6 +67,7 @@
     * [elasticSearch](中间件)
 
 * 数据库
+    * [mysql之数据类型](/article/数据库/mysql之数据类型.md)
     * [mysql之常用语句](/article/数据库/mysql之常用语句.md)
     * [mysql之查询](/article/数据库/mysql之查询.md)
     * [mysql之DML语句](/article/数据库/mysql之DML语句.md)
