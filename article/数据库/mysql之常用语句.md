@@ -38,6 +38,7 @@ select ->from ->where ->group by ->having ->order by ->limit
 >alter table table_name  DROP field
 * 修改字段类型：mofidy 
 >alter  table table_name modify [COLUMN] 字段名 新数据类型 新类型长度  新默认值  新注释;
+>modify可以用来修改字段类型，是否必填，注释。例如：当修改比否非必填时，字段类型和注释如果不修改，也需要带上当前值，否则会被清空
 * 修改字段名称 change
 >alter  table table1 change old_column new_column varchar(100) DEFAULT 1.2 COMMENT '注释';
 * 修改字段默认值
