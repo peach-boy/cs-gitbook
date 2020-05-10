@@ -25,9 +25,9 @@
         * [HashMap原理](/article/java/容器/HashMap原理.md)
     * [I/O](java)
     * [JVM](java)
-        * [类加载机制]TODO
-        * [内存模型]TODO
-        * [垃圾回收机制]TODO
+        * [JVM之内存模型](/article/java/JVM/JVM之内存模型.md)
+        * [JVM之类加载机制]TODO
+        * [JVM之垃圾回收]TODO
     * [java8](java)
         * [java8-lambda表达式](/article/java/java8/java8-lambda表达式.md)
         * [java8-streamApi](/article/java/java8/java8-streamApi.md)
