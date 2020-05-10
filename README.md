@@ -110,7 +110,8 @@
         * [哈希表](https://www.cnblogs.com/maybe2030/p/4719267.html)
     * [算法](算法)
 * 思想和规范
-    * [领域驱动设计（DDD）在美团点评业务系统的实践](https://yq.aliyun.com/articles/319159?utm_content=m_38302)
+    * [领域驱动设计(DDD)](DDD)
+        * [领域驱动设计（DDD）在美团点评业务系统的实践](https://yq.aliyun.com/articles/319159?utm_content=m_38302)
     
 * 工具
     * [git](git)
@@ -120,6 +121,8 @@
     * [github markdown guide](https://guides.github.com/features/mastering-markdown/) 
     * [设计模式在线学习网站](https://refactoringguru.cn/)
     * [git在线演示学习网站](https://oschina.gitee.io/learn-git-branching/)
-
+* 写给自己
+    * [一次线上事故的反思](/article/写给自己/一次线上事故的反思.md)
+    * [关于提升工作效率的一点思考](/article/写给自己/关于提升工作效率的一点思考.md)
 
 
