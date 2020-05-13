@@ -91,7 +91,7 @@
 
 * 前端
     * [vue](vue)
-        * [vue组件之间的传值.md](/article/前端/vue组件之间的传值.md)
+        * [vue组件之间的传值](/article/前端/vue组件之间的传值.md)
 
 * devops
     * [devops](/article/devops/devops.md)
