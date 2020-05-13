@@ -49,13 +49,14 @@
         * [spring常用接口](/article/框架/springFramework/spring常用接口.md)
         * [spring事务](/article/框架/springFramework/spring事务.md)
     * [springboot](springboot)
-        * [springboot之参数传递]
-        * [springboot之时间处理]
-        * [springboot之参数校验]
+        * [springboot之参数传递]TODO
+        * [springboot之时间处理]TODO
+        * [springboot之参数校验]TODO
         * [springboot之常用注解](/article/框架/springboot/springboot常用注解.md)
         * [springboot之自动配置]TODO
     * [mybatis](mybatis)
         * [mybatis使用经验](/article/框架/mybatis/mybatis使用经验.md)
+    * [dubbo]TODO
     * [单元测试](单元测试)
         * [junit]TODO
         * [Mockito]TODO
@@ -67,8 +68,9 @@
         * [redis专题之集群高可用部署方案](/article/中间件/redis/redis专题之集群高可用部署方案.md)
     * [rabbitmq](中间件)
         * [rabbitmq](/article/中间件/rabbitmq/rabbitmq.md)
-    * [elasticjob](中间件)
-    * [elasticSearch](中间件)
+    * [elasticjob]TODO
+    * [elasticSearch]TODO
+    * [zookeeper]TODO
 * 数据库
     * [mysql之数据类型](/article/数据库/mysql之数据类型.md)
     * [mysql之常用语句](/article/数据库/mysql之常用语句.md)
@@ -76,13 +78,12 @@
     * [mysql之DML语句](/article/数据库/mysql之DML语句.md)
     * [mysql之锁](/article/数据库/mysql之锁.md)
     * [mysql之索引](/article/数据库/mysql之索引.md)
-    * [mysql之事务](/article/数据库/mysql之事务.md)
+    * [mysql之事务]TODO
 * 分布式系统设计
-    * [分布式锁](/article/分布式系统设计/分布式锁.md)
-    * [分布式事务](/article/分布式系统设计/分布式事务.md)
+    * [分布式锁]TODO
+    * [分布式事务]TODO
     * [幂等性](/article/分布式系统设计/幂等性.md)
-    * [分布式会话](/article/分布式系统设计/分布式会话.md)
-
+    * [分布式会话]TODO
 * 网络与操作系统    
     * [网络协议基础]TODO
     * [https原理]TODO
