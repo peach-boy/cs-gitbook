@@ -31,6 +31,7 @@
     * [java8](java)
         * [java8-lambda表达式](/article/java/java8/java8-lambda表达式.md)
         * [java8-streamApi](/article/java/java8/java8-streamApi.md)
+         * [java8-常用数据处理](/article/java/java8/java8-常用数据处理.md)
     * [J2EE](java)
         * [如何解决跨域问题](https://juejin.im/post/5c23993de51d457b8c1f4ee1)
         * [tomcat,servlet和spring之间的关系](https://www.cnblogs.com/shawshawwan/p/9002126.html)
@@ -112,7 +113,7 @@
 * 思想和规范
     * [领域驱动设计(DDD)](DDD)
         * [领域驱动设计（DDD）在美团点评业务系统的实践](https://yq.aliyun.com/articles/319159?utm_content=m_38302)
-    
+    * [敏捷开发](敏捷开发)
 * 工具
     * [git](git)
         * [git命令小记](/article/工具/git/git命令小记.md)
