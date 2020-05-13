@@ -40,7 +40,6 @@
     * [其他](java)
         * [intercepter配合threadlocal实现线程内数据扩展](/article/java/其他/intercepter-and-threadlocal.md)
         * [Iterator循环删除list中元素](/article/java/其他/Iterator循环删除list中元素.md)
-
 * 框架
     * [springFramework](框架)
         * [springMvc常用注解](/article/框架/springFramework/springMvc常用注解.md)
@@ -61,7 +60,6 @@
         * [junit]TODO
         * [Mockito]TODO
     * [日志](日志)
-
 * 中间件
     * [redis](中间件)
         * [redis专题之如何保证高性能](/article/中间件/redis/redis专题之如何保证高性能.md)
@@ -71,7 +69,6 @@
         * [rabbitmq](/article/中间件/rabbitmq/rabbitmq.md)
     * [elasticjob](中间件)
     * [elasticSearch](中间件)
-
 * 数据库
     * [mysql之数据类型](/article/数据库/mysql之数据类型.md)
     * [mysql之常用语句](/article/数据库/mysql之常用语句.md)
@@ -80,9 +77,6 @@
     * [mysql之锁](/article/数据库/mysql之锁.md)
     * [mysql之索引](/article/数据库/mysql之索引.md)
     * [mysql之事务](/article/数据库/mysql之事务.md)
-
-
-
 * 分布式系统设计
     * [分布式锁](/article/分布式系统设计/分布式锁.md)
     * [分布式事务](/article/分布式系统设计/分布式事务.md)
@@ -94,6 +88,10 @@
     * [https原理]TODO
     * [linux常用命令](/article/网络与操作系统/linux常用命令.md)
     * [nginx]TODO
+
+* 前端
+    * [vue](vue)
+        * [vue组件之间的传值.md](/article/前端/vue组件之间的传值.md)
 
 * devops
     * [devops](/article/devops/devops.md)
@@ -117,7 +115,6 @@
 * 工具
     * [git](git)
         * [git命令小记](/article/工具/git/git命令小记.md)
-
 * 其他
     * [github markdown guide](https://guides.github.com/features/mastering-markdown/) 
     * [设计模式在线学习网站](https://refactoringguru.cn/)
