@@ -12,8 +12,8 @@ $ ssh-keygen -t rsa -C "2email@github.com” -f ~/.ssh/github_rsa
 
 ```
 #gitlab
-Host gitlab.wuxingdev.cn
-    Hostname gitlab.wuxingdev.cn
+Host gitlab.wuxiantao.cn
+    Hostname gitlab.wuxiantao.cn
     User git_username 
     PreferredAuthentications publickey
     IdentityFile C:\Users\wuxiantao\.ssh\\id_rsa
